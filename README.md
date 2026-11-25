@@ -1,4 +1,4 @@
-#codex-perlica-settings-fixed
+#codex-perlica
 cách sử dụng :
 
 b1: giải lén file và vào bên trong file đã giải lén nhấn chuột trái vào file đó và trọn phần terminal
