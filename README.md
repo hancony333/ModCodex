@@ -18,3 +18,4 @@ lỗi 2 : Unexpected port owner.
 
        Fix : nỗi này ko cần lo cứ bấm ok là được 
         
+khi làm đc nó sẽ hiện ra như thế này <img width="1917" height="1021" alt="Screenshot 2026-11-24 205618" src="https://github.com/user-attachments/assets/dfb8ea0b-347e-4f6f-aa7a-e1723197c348" />
