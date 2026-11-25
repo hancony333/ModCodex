@@ -9,6 +9,8 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\tools\install-windows.
 
 b3 : làm song khởi dộng lại máy và tìm kiếm app có tên là codex Perlica và chọn vào app đó là được 
 
+phần tinh chỉnh là: Ctrl + Alt + B
+
 LƯU Ý : app chỉ hoạt động khi chưa khởi dộng chatgpt . lếu đã khởi dộng chatgpt chước khi khởi dộng app codex Perlica thì nó sẽ báo nỗi .Cách giải quyết là phải thoát hẳn codex và chọn lại app đó là được . lếu có nỗi gì thêm thì hãy cap màn đó rồi gửi cho AI ló sẽ fix cho tất cả các nỗi lếu mọi người gặp phải như mấu nỗi mình miếu tả như là:
 
 lỗi 1 :Hãy rút ra hoàn toàn khỏi khay trước đã Codex, Nhấp đúp vào lối vào khởi động nền này. Cửa sổ hiện tại không có giao diện nền, không thể áp dụng trực tiếp. 
