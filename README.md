@@ -1,6 +1,7 @@
 #codex-perlica-settings-fixed
 cách sử dụng :
-b1: giải lén file và nhấn chuột trái vào file đó và trọn phần terminal
+
+b1: giải lén file và vào bên trong file đã giải lén nhấn chuột trái vào file đó và trọn phần terminal
 
 b2: chạy dòng này là được
 
