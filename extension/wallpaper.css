@@ -1,0 +1,25 @@
+/* Transparent Codex surfaces over the persistent Perlica MP4 layer. */
+html[data-aemeath-skin]{
+  --aemeath-base:20 18 24;
+  --app-color-background-surface:transparent!important;
+  --app-color-background-surface-under:transparent!important;
+  --app-color-background-editor-opaque:rgb(var(--aemeath-base)/.28)!important;
+  --app-color-background-card:rgb(var(--aemeath-base)/.28)!important;
+  --color-token-side-bar-background:rgb(var(--aemeath-base)/.12)!important;
+  --color-token-bg-primary:transparent!important;
+  --color-token-main-surface-primary:transparent!important;
+  --color-surface:transparent!important;
+  --color-surface-secondary:rgb(var(--aemeath-base)/.12)!important;
+  --color-surface-tertiary:rgb(var(--aemeath-base)/.28)!important;
+  --chat-background-color:transparent!important;
+  --composer-background-color:rgb(var(--aemeath-base)/.62)!important;
+  --app-shell-panel-background:transparent!important;
+  --app-shell-tab-background:rgb(var(--aemeath-base)/.22)!important;
+  color-scheme:dark;
+}
+html[data-aemeath-skin] body{background:transparent!important;background-color:transparent!important}
+html[data-aemeath-skin] :is(#root,[data-app-shell-frame],[data-app-shell-page-surface=true]){background:transparent!important}
+html[data-aemeath-skin] .app-shell-left-panel{background:rgb(var(--aemeath-base)/.12)!important}
+#aemeath-perlica-wallpaper{display:block}
+
+html[data-aemeath-skin] body>*:not(#aemeath-perlica-wallpaper){position:relative;z-index:1}
